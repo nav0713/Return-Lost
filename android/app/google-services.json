@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369972502034",
+    "firebase_url": "https://return-lost-0713.firebaseio.com",
+    "project_id": "return-lost-0713",
+    "storage_bucket": "return-lost-0713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369972502034:android:e69865cc4639fcd09f02cb",
+        "android_client_info": {
+          "package_name": "com.navacuin.returnlost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369972502034-f9j0rfmekrdjr0ti3v5aubj25qq8gcks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.navacuin.returnlost",
+            "certificate_hash": "f5e04d66c8216e99e1a5c31107c2817996458012"
+          }
+        },
+        {
+          "client_id": "369972502034-8l2ptg921eb7gnp2eovnl0omou911fbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcQBB8UjGWwc3E1VMZFm8kobTGx5yTqgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369972502034-8l2ptg921eb7gnp2eovnl0omou911fbk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
