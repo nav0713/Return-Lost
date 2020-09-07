@@ -1,8 +1,8 @@
 # returnlost
 
-a mobile application for lost and found things
+![](https://github.com/nav0713/images/blob/master/Return%20lost%20facebook%20cover.jpg)
 
-![](https://github.com/nav0713/images/blob/master/QR-code6.png)
+a mobile application for lost and found things
 
 ## Getting Started
 
