@@ -1,8 +1,9 @@
 # Return-lost App
+A Mobile Application for Lost and Found things. This aoplication is our start up during my internship in Navigatu. 
 
 ![](https://github.com/nav0713/images/blob/master/Return%20lost%20facebook%20cover.jpg)
 
-a mobile application for lost and found things
+
 
 # Screenshots
    <div style=display="inline-block";>
